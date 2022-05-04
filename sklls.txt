@@ -1,0 +1,12 @@
+HTML
+CSS
+Bem
+Git
+Кроссбраузерная верстка
+Адаптивная верстка
+JS
+Figma
+Atlassian Jira
+Atlassian Confluence
+postman
+SQL
